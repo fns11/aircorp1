@@ -18,6 +18,6 @@ Numbered:
 1. one
 2. two 
 
-> Block quote.
+> Block quote
 
 -------
